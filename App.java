@@ -1,9 +1,8 @@
 public class App{
 
     public static void main(String args[]){
-        //Despliega un hola mundo
-         System.out.println("Hola Mundo desde vscode en Java!!");
-         //Termina
+        //Suma
+         Sytem.out.println(" 2 + 2 = 4");
     }
     
 }
